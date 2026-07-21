@@ -20,4 +20,4 @@ Compare health careers and specialties using curated public career blurbs (educa
 
 **Not medical advice.** See DISCLAIMER.md.
 
-Part of [Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · [ProMedNet](https://crossclinical.com)
+Part of [Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · [ProMedNet](https://crossclinical.com)

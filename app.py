@@ -81,7 +81,7 @@ with gr.Blocks(title="Health Pathway Explorer") as demo:
     gr.Markdown(
         f"# Health Pathway Explorer\n\n"
         f"**{DISCLAIMER}**\n\n"
-        f"Part of [Cross Clinical OSS](https://github.com/Cross-Clinical/awesome) · "
+        f"Part of [Cross Clinical OSS](https://github.com/Cross-Clinical/suite-index) · "
         f"[ProMedNet](https://crossclinical.com)"
     )
     with gr.Tab("Search"):
